@@ -1,0 +1,38 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - DropDown (2)
+  - IQKeyboardManagerSwift (4.0.9)
+  - ISMessages (1.2)
+  - NVActivityIndicatorView (3.6.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0)
+  - DropDown
+  - IQKeyboardManagerSwift
+  - ISMessages
+  - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  DropDown: 744784d9c9aa505100e942c16acd05430cbb2f0a
+  IQKeyboardManagerSwift: 2eefe6c429b86aa08bfbc1b5c891164d754adf91
+  ISMessages: d39098b48672813d69d30f44da06260b9920fed4
+  NVActivityIndicatorView: 9f52a7f84bf5c6a798722c450fe3c198e01c56ed
+
+PODFILE CHECKSUM: 920227da96b2af3750adfb5e405ef26c6f6cb14c
+
+COCOAPODS: 1.2.1
